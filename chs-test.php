@@ -1,4 +1,3 @@
-chs-test.php
 /*
 Plugin Name: chs test
 Plugin URI:  http://link to your plugin homepage
